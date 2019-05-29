@@ -6,7 +6,7 @@
 HOST = "irc.twitch.tv"
 PORT = 6667
 NICK = "EpochBot_"
-PASS = "oauth:yt1lben18a6lu9tobhbl9t66h1jceu"
+PASS = ""
 CHAN = "wymiller"
 
 # Other stuff that's not really needed but nice to have
